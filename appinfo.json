@@ -1,0 +1,38 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "East Quad",
+    "longName": "Dark Face",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/weather.ttf",
+                "name": "BATMAN_18",
+                "type": "font"
+            },
+            {
+                "file": "fonts/batmfa__.ttf",
+                "name": "BATMAN_22",
+                "type": "font"
+            },
+            {
+                "file": "images/final-2.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Dark Face",
+    "uuid": "6f99dd6d-8805-4e6c-9d5f-f5f947639598",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
